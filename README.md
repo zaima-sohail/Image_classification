@@ -2,6 +2,10 @@
 
 A Streamlit app that classifies uploaded fruit and vegetable images with a TensorFlow/Keras model.
 
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/3c44d73c-35a7-4a59-88fe-a709a47abf94" />
+<img width="1416" height="665" alt="image" src="https://github.com/user-attachments/assets/9ed23f97-adb6-4d4f-a7c1-53f36a105eec" />
+
+
 ## Project Files
 
 - `app.py` - Streamlit image upload, preprocessing, and prediction interface.
