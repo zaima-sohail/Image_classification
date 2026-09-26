@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+tensorflow==2.21.0
+keras==3.13.2
+Pillow>=10,<13
+numpy>=2.2,<2.3
+kagglehub>=0.3,<1
